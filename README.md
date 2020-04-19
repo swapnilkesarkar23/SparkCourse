@@ -1,5 +1,5 @@
 # SparkCourse
-Repository for [Udemy Course - Taming Big Data with Apache Spark - Python](https://www.udemy.com/share/101tRoB0YYdFhaQnw=/)
+Repository for [Udemy Course - Taming Big Data with Apache Spark - Python](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/)
 
 ## Course Contents
 ➔ Use DataFrames and Structured Streaming in Spark 3.\
